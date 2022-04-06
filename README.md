@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/joao-val/c)
+![GitHub repo size](https://img.shields.io/github/repo-size/joao-val/c)
+![Twitter Follow](https://img.shields.io/twitter/follow/BodeAlterado?style=social)
+
 # Linguagem C
 ## Curso - Primeiros passos com a linguagem C
 Aprenda Linguagem C de forma simples e descontraída. Este curso também ensina Lógica de programação e é ponto de partida a todos que desejam aprender a programar.
